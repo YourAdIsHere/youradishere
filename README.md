@@ -1,5 +1,5 @@
 <img src="https://myreadme.vercel.app/api/embed/youradishere?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 <!--
 **YourAdIsHere/youradishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
